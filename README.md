@@ -1,44 +1,33 @@
 # MongoDB Database - NoSQL
 
-# MongoDB --- From Fundamentals to Advanced Distributed Systems
+## MongoDB - From Fundamentals to Advanced Distributed Systems
 
-```{=html}
 <p align="center">
-```
-
-`<img src="https://www.mongodb.com/assets/images/global/leaf.png" alt="MongoDB" width="110"/>`{=html}
-
-```{=html}
+  <img src="https://www.mongodb.com/assets/images/global/leaf.png" alt="MongoDB" width="110">
 </p>
-```
 
-```{=html}
 <p align="center">
-```
-
-`<strong>`{=html}A structured, research-oriented roadmap for learning
-MongoDB from zero to production-grade distributed database
-engineering.`</strong>`{=html}
-
-```{=html}
+  <strong>
+    A structured, research-oriented roadmap for learning MongoDB
+    from zero to production-grade distributed database engineering.
+  </strong>
 </p>
-```
 
-```{=html}
 <p align="center">
-```
-
-`<a href="https://www.mongodb.com/docs/">`{=html}`<img src="https://img.shields.io/badge/MongoDB-Documentation-47A248?logo=mongodb&logoColor=white" alt="MongoDB Documentation">`{=html}`</a>`{=html}
-`<a href="https://www.mongodb.com/docs/manual/">`{=html}`<img src="https://img.shields.io/badge/MongoDB-Manual-47A248?logo=mongodb&logoColor=white" alt="MongoDB Manual">`{=html}`</a>`{=html}
-`<a href="https://www.mongodb.com/docs/atlas/">`{=html}`<img src="https://img.shields.io/badge/MongoDB-Atlas-116149?logo=mongodb&logoColor=white" alt="MongoDB Atlas">`{=html}`</a>`{=html}
-`<img src="https://img.shields.io/badge/Level-Beginner%20%E2%86%92%20Advanced-blue" alt="Level">`{=html}
-`<img src="https://img.shields.io/badge/Focus-Database%20Engineering-purple" alt="Focus">`{=html}
-`<img src="https://img.shields.io/badge/Style-Academic%20%7C%20Practical-orange" alt="Style">`{=html}
-`<img src="https://img.shields.io/badge/License-MIT-green" alt="License">`{=html}
-
-```{=html}
+  <a href="https://www.mongodb.com/docs/">
+    <img src="https://img.shields.io/badge/MongoDB-Documentation-47A248?logo=mongodb&logoColor=white" alt="MongoDB Documentation">
+  </a>
+  <a href="https://www.mongodb.com/docs/manual/">
+    <img src="https://img.shields.io/badge/MongoDB-Manual-47A248?logo=mongodb&logoColor=white" alt="MongoDB Manual">
+  </a>
+  <a href="https://www.mongodb.com/docs/atlas/">
+    <img src="https://img.shields.io/badge/MongoDB-Atlas-116149?logo=mongodb&logoColor=white" alt="MongoDB Atlas">
+  </a>
+  <img src="https://img.shields.io/badge/Level-Beginner%20%E2%86%92%20Advanced-blue" alt="Level">
+  <img src="https://img.shields.io/badge/Focus-Database%20Engineering-purple" alt="Focus">
+  <img src="https://img.shields.io/badge/Style-Academic%20%7C%20Practical-orange" alt="Style">
+  <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
-```
 
 ---
 
